@@ -1,0 +1,4 @@
+<resources>
+    <string name="csdk_client_id">CREATIVE_SDK_CLIENT_ID</string>
+    <string name="csdk_client_secret">CREATIVE_SDK_CLIENT_SECRET</string>
+</resources>
